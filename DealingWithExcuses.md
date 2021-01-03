@@ -1,6 +1,8 @@
 # Dealing with Excuses
 
-<div style="text-align: right"> Ignatius Milton</div>
+<div style="text-align: right">
+    <a href="./AboutMe.md">Ignatius Milton</a>
+</div>
 
 ## 1. The Clumsy Ludo Player
 
