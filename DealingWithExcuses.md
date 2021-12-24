@@ -30,7 +30,7 @@ But then, you're not really annoyed too much - she's always in a *great* mood af
 
 ## 2. The Late Assignment
 
-You are a perfectly utilitarian NIT Rourkela professor `¯\_(ツ)_/¯` who attaches exactly the same weight to the students' welfare as your own. *Hey, this is a story - I can make theoretical assumptions!* You need to have the assignments of all sixty students in your 3<sup>rd</sup> year Engineering class by the time midsemester grades go out on the 1<sup>st</sup> of March.
+You are a perfectly utilitarian NITR professor `¯\_(ツ)_/¯` who attaches exactly the same weight to the students' welfare as your own. *Hey, this is a story - I can make theoretical assumptions!* You need to have the assignments of all sixty students in your 3<sup>rd</sup> year Engineering class by the time midsemester grades go out on the 1<sup>st</sup> of March.
 
 You don't want to have to work during the exam time, so you set a deadline that all reports must be in by February 14<sup>th</sup> or you won't grade them and the students will fail the class. *Yup, no ulterior motives here*.
 
@@ -46,7 +46,7 @@ If you say "There's no penalty for turning in your report after deadline." then 
 
 So instead you say "If you don't turn in your report on time, I won't grade it." All students calculate the cost of being late, which is +1 utility from procrastinating and -100 from failing the class, and turn in their reports on time. You get all reports graded before the exams, no students fail the class, and total utility loss is zero. Yay!
 
-However, an outgoing student meets you after class on February 15<sup>th</sup>, a day after the deadline, and says "Sorry, I was really busy yesterday (*Of course she was e.e*), so I couldn't come all the way here to hand in my report. I expect you'll grade my report anyway, because I know you to be a perfect utilitarian who attaches exactly the same weight to the students' welfare as your own (again, this is a story), and you'd rather take the -30 utility hit to yourself than take the -100 utility hit to me."
+However, an outgoing student meets you after class on February 15<sup>th</sup>, a day after the deadline, and says "Sorry, I was really busy yesterday (*Of course she was e.e*), so I couldn't come all the way here to hand in my report. I expect you'll grade my report anyway, because I know you to be a perfect utilitarian who attaches exactly the same weight to the students' welfare as your own (*again, this is all hypothetical*), and you'd rather take the -30 utility hit to yourself than take the -100 utility hit to me."
 
 You respond "Sorry, but if I let you get away with this, all the other students will turn in their reports late in the summer." 
 
@@ -80,7 +80,7 @@ That evening, you wonder if you should change the grading methodology such that 
 
 ## 3. The Disciplinary Action
 
-You are one of the two student representatives of NIT Rourkela's ISDC (Institute Standing Disciplinary Committee), affectionately dubbed as the *DisCo*. 
+You are one of the two student representatives of NITR's ISDC (Institute Standing Disciplinary Committee), affectionately dubbed as the *DisCo*. 
 
 The case standing before you is an MTech student who reportedly assaulted another student in the campus library. He pleads his case:
 
@@ -96,7 +96,7 @@ You take a quick look at your own boyfriend, who is the other student representa
 
 ## 4. The MUN Dictator
 
-You are attending the prestigious NIT Rourkela International Model United Nations, attracting over 200 student delegates from around the country.
+You are attending the prestigious NITR International Model United Nations, attracting over 200 student delegates from around the country.
 
 You are assuming the role of a dictator from East Exampleia, a newly formed republic subsisting largely off its main export, high quality hypothetical scenarios. You've always had it in for your ancestral enemy, West-Examplestan, but the MUN has made it clear that any country in your region that aggressively invades a neighbor will be severely punished with sanctions and possible enforced "regime change." So you decide to leave the West alone for the time being.
 
